@@ -11,7 +11,9 @@ h1{
 header img{
 	border-radius: 150px;
 	width: 300px;
+	border: 24px solid #CC0000;
 }
+
 /*
 <header>
 	<img src="img/profile.jpg">
